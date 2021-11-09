@@ -109,6 +109,12 @@ button {
   letter-spacing: 0.06em;
   color: var(--second-btn-color);
 }
+.hero-btn:hover {
+  background-color: #188ce8;
+}
+.hero-btn:focus {
+  background-color: #188ce8;
+}
 
 /* Advantages */
 
